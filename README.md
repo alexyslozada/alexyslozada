@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alexyslozada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="alexyslozada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexys-lozada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alexys-lozada" height="30" width="40" /></a>
-<a href="https://instagram.com/alexys_lozada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="alexys_lozada" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alexyslozada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="alexyslozada" height="30" width="40" /></a>
+<a href="https://twitter.com/alexyslozada" target="blank"><img align="center" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.2560.jpg" alt="alexyslozada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexys-lozada" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="alexys-lozada" height="30" width="40" /></a>
+<a href="https://instagram.com/alexys_lozada" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png" alt="alexys_lozada" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alexyslozada" target="blank"><img align="center" src="https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q" alt="alexyslozada" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
