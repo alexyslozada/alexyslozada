@@ -9,7 +9,7 @@
 
 - 💻 I'm backend developer **Go + Postgresql.**
 
-- 👯 I’m currently working on [ZABO](https://zabo.com)
+- 👯 I worked on [ZABO](https://zabo.com)
 
 - 📹 My youtube channel [Share knowledge](https://youtube.com/alexyslozada)
 
